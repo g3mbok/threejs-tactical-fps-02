@@ -1,0 +1,6 @@
+[
+  { "name": "1-terminal.jpg", "query": "?shot=briefing&seed=17" },
+  { "name": "2-contact.jpg", "query": "?shot=contact&seed=17" },
+  { "name": "3-armory.jpg", "query": "?shot=armory&seed=17" },
+  { "name": "4-defuse.jpg", "query": "?shot=defuse&seed=17" }
+]
